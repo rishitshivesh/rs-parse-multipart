@@ -1,0 +1,24 @@
+{
+  "name": "rs-parse-multipart",
+  "version": "1.0.000",
+  "description": "A javascript/nodejs multipart/form-data parser which operates on raw data.",
+  "main": "multipart.js",
+  "author": "Rishit Shivesh",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishitshivesh/rs-parse-multipart.git"
+  },
+  "keywords": [
+    "multipart/form-data",
+    "form",
+    "fileuploader"
+  ],
+  "bugs": {
+    "url": "https://github.com/rishitshivesh/rs-parse-multipart/issues"
+  },
+  "homepage": "https://github.com/rishitshivesh/rs-parse-multipart#readme"
+}
